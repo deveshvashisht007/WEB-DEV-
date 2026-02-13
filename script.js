@@ -120,8 +120,19 @@
 
 //      }
 
-Form.addeventlistener("submit",(event)=>{
-    const category=eventcategory.value
-    const description=eventdescription.value
-    console.log(title,Date,category,description)
-    const card =document
+// console.log("this is the first line of code");
+// try{
+//     let age= 17
+//     if (age<18){
+//         throw new Error("you are not eligible ")
+//     }
+//     console.log(sample)
+// }
+// catch(error){
+//     console.warn(error)
+    
+// }
+// finally{
+//     console.log("this will always execute")
+// }
+// console.log("this is the second line of code");
