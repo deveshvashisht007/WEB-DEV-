@@ -342,4 +342,4 @@ search.addEventListener("click",async(e)=>{
     console.log("humidity:", weatherdata.main.humidity)
     console.log("wind:", weatherdata.wind.speed + "miles/hr")
 
-})()
+})
