@@ -343,3 +343,5 @@ search.addEventListener("click",async(e)=>{
     console.log("wind:", weatherdata.wind.speed + "miles/hr")
 
 })
+
+()
