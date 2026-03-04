@@ -386,4 +386,4 @@ search.addEventListener("click",async(e)=>{
 
 })
 
-(0)
+(0)()
