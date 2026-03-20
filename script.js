@@ -382,6 +382,6 @@ search.addEventListener("click",async(e)=>{
     }catch(error){
         console.log(e)
 
-        ()()
+        
         
 
