@@ -382,7 +382,4 @@ search.addEventListener("click",async(e)=>{
     }catch(error){
         console.log(e)
 
-        
-     90   90
-
-gfyfyyh
+    
